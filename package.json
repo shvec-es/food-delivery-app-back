@@ -1,0 +1,33 @@
+{
+  "name": "food-delivery-app-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node -r dotenv/config ./server.js",
+    "start:dev": "cross-env NODE_ENV=development nodemon -r dotenv/config ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shvec-es/food-delivery-app-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shvec-es/food-delivery-app-back/issues"
+  },
+  "homepage": "https://github.com/shvec-es/food-delivery-app-back#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "mongoose": "^6.4.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}

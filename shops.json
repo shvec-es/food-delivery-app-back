@@ -1,0 +1,66 @@
+[{
+    "_id": "62bc9d4bb2edbdb56e26041c",        
+    "title": "McDonald's",
+            "menu": [
+                {
+                    "product": "Burger",
+                    "img": "https://pyxis.nymag.com/v1/imgs/024/984/1d904bcbce287d45ae55505199b1b921a5-best-burger-shake-shack.rsquare.w700.jpg",
+                    "price": 100,
+                    "_id": "62bc68c406034e4e80569d29"
+                },
+                {
+                    "product": "French Fries",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUcniNob-ifVcIPkkgclZTbMlAm4ZVjIF19boD683CgeeKgDMXpoXW6Azahvf6EGj4Ed8&usqp=CAU",
+                    "price": 55,
+                    "_id": "62bc68c406034e4e80569d2a"
+                },
+                {
+                    "product": "Chicken nuggets",
+                    "img": "https://i.ytimg.com/vi/WtmvlD8ryI8/mqdefault.jpg",
+                    "price": 90,
+                    "_id": "62bc68c406034e4e80569d2b"
+                }
+            ]
+        },
+        {
+            "_id": "62bc9d4bb2edbdb56e26041d",
+            "title": "Sushi-Master",
+            "menu": [
+                {
+                    "product": "Filadelfiya",
+                    "img": "https://www.rainbowbrookline.com/wp-content/uploads/2019/12/Philadelphia-Maki.jpg",
+                    "price": 130,
+                    "_id": "62bc99c606034e4e80569d2f"                    
+                },
+                {
+                    "product": "Okinawa",
+                    "img": "https://restaurantclicks.com/wp-content/uploads/2021/11/sushi-midtown-nyc.jpg",
+                    "price": 105,
+                    "_id": "62bc99c606034e4e80569d30"                   
+                },
+                {
+                    "product": "Kaliforniya",
+                    "img": "https://eda.ru/img/eda/c620x415/s1.eda.ru/StaticContent/Photos/160812092111/160819214540/p_O.jpg",
+                    "price": 120,
+                    "_id": "62bc99c606034e4e80569d31"                    
+                }
+            ]
+        },
+        {
+            "_id": "62bc9d4bb2edbdb56e26041e",
+            "title": "KFC",
+            "menu": [
+                {
+                    "product": "Gamburger",
+                    "img": "https://s1.eda.ru/StaticContent/Photos/160525131253/160602184657/p_O.jpg",
+                    "price": 80,
+                    "_id": "62bc9abf06034e4e80569d35"
+                },
+                {
+                    "product": "Chicken wing",
+                    "img": "https://halal-spb.ru/sites/default/files/styles/large/public/krylyshki-kak-v-kfs-recept.jpg?itok=YzgzaRNX",
+                    "price": 95,
+                    "_id": "62bc9abf06034e4e80569d36"
+                }
+            ]
+        }]
