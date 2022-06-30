@@ -4,7 +4,7 @@ const getProductById = (req, res) => {
   const { productId } = req.params;
   try {
     const product = shops.map(({ menu }) =>
-      menu.filter((item) => item._id === productId)
+      menu.find((item) => item._id === productId)
     );
     return res.json({
       status: "success",
